@@ -17,7 +17,7 @@
     
     <org.slf4j-version>1.7.12</org.slf4j-version>
     <druid.version>1.0.7</druid.version>
-    <mysql.connector.java.version>5.1.26</mysql.connector.java.version>
+    <mysql.connector.java.version>8.0.16</mysql.connector.java.version>
     
     <jedis.version>2.9.2</jedis.version>
     <lettuce.version>5.1.4.RELEASE</lettuce.version> <!-- redis client -->
